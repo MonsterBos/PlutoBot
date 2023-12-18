@@ -4,10 +4,10 @@
 # you may not use this file except in compliance with the License.
 #
 
-# OwenUserBot - jackdanielssx
+# MoonBot - jackdanielssx
 #
 
-""" UserBot yardım komutu """
+
 
 from MoonBot.cmdhelp import CmdHelp
 from MoonBot import cmdhelp
