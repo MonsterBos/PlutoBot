@@ -1,5 +1,4 @@
 aiohttp
-aria2p
 async_generator
 bs4
 beautifulsoup4>=4.9.3
@@ -38,9 +37,7 @@ pytz
 qrcode
 requests>=2.18.4
 git+https://github.com/bisoncorps/search-engine-parser
-speedtest-cli>=2.0.2
 sqlalchemy>=1.2
-spotdl
 selenium>=3.141.0
 telethon>=1.24.0
 telethon-session-sqlalchemy>=0.2.6
