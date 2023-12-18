@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# OwenUserBot - jackdanielssx
+# MoonBot - jackdanielssx
 
 # @Qulec tarafından yazılmıştır.
 # Thanks @Spechide.
