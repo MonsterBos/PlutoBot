@@ -1,7 +1,7 @@
 def e_(fayl_adi, name, slep, siyahi):
 	f = open(f"./owenuserbot{fayl_adi}.py", "x")
-	f.write(f"""from userbot.events import register
-from userbot.cmdhelp import CmdHelp
+	f.write(f"""from MoonBot.events import register
+from MoonBot.cmdhelp import CmdHelp
 from time import sleep
 from telethon import events
 a={siyahi}
@@ -18,8 +18,8 @@ Help.add()
 
 def a_(fayl_adi, name, siyahi, slep):
 	f = open(f"./owenuserbot{fayl_adi}.py", "x")
-	f.write(f"""from userbot.events import register
-from userbot.cmdhelp import CmdHelp
+	f.write(f"""from MoonBot.events import register
+from MoonBot.cmdhelp import CmdHelp
 from time import sleep
 from telethon import events
 a={siyahi}
@@ -38,8 +38,8 @@ Help.add()
 
 def r_(fayl_adi, name, siyahi):
 	f = open(f"./owenuserbot{fayl_adi}.py", "x")
-	f.write(f"""from userbot.events import register
-from userbot.cmdhelp import CmdHelp
+	f.write(f"""from MoonBot.events import register
+from MoonBot.cmdhelp import CmdHelp
 from telethon import events
 from random import choice
 a={siyahi}
@@ -57,8 +57,8 @@ def m_(fayl_adi, name, siyahi):
 	f = open(f"./owenuserbot{fayl_adi}.py", "x")
 	f.write("""from telethon import events
 import asyncio
-from userbot.events import register
-from userbot.cmdhelp import CmdHelp
+from MoonBot.events import register
+from MoonBot.cmdhelp import CmdHelp
 import random
 import os
 IFACI = [{siyahi}]
